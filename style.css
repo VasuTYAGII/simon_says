@@ -1,0 +1,50 @@
+body{
+    text-align: center;
+}
+.btn{
+    width: 150px;
+    height: 150px;
+    border: 10px solid black;
+    border-radius: 50px;
+    margin: 10px;
+}
+
+#boxContainer{
+    display:flex;
+    justify-content: center;
+}
+.red{
+    background-color: rgb(255, 2, 86);
+}
+.blue{
+    background-color: skyblue;
+}
+.orange{
+    background-color: orange;
+}
+.purple{background-color: purple;}
+
+.flash{
+    background-color: white;
+}
+
+
+
+body{
+    background-image: url(Simon-Says-Game.jpg);
+}
+
+
+.greenflash{
+    background-color:lightgreen;
+}
+
+.redflash{
+    background: red;
+}
+
+
+ #head,#levelCount{
+    display: inline;
+    background-color: lightblue;
+} 
